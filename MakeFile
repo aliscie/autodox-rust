@@ -1,0 +1,22 @@
+#the following are three ways of running the application
+## 1.using trunk
+trunk:
+	trunk serve --open
+
+##  2. using wasm-pack
+pack:
+	#cargo install wasm-pack
+	#wasm-pack build --target web --out-name wasm --out-dir ./static
+	python -m http.server 8000
+
+##  3. using cargo-web
+web:
+	#cargo install cargo-web
+	#cargo web build
+	cargo web start
+
+kill_all:
+	killall dfx replica
+	
+#tailwind:
+#	npx tailwindcss-cli build ./tailwind.css -o styles/tailwind.css
