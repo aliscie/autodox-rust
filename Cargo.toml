@@ -1,4 +1,13 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+
+
 [workspace]
 members = [
     "src/TEX",
 ]
+
+[dependencies]
+yew = "0.19.3"
