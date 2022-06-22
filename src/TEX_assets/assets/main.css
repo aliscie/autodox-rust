@@ -84,3 +84,10 @@ color: var(--text-color);
     color: rgba(var(--text-color), 0.9);
 }
 
+
+.grid-container {
+    display: grid;
+    height: 400px;
+    align-content: start;
+    grid-template-columns: auto auto auto;
+  }
