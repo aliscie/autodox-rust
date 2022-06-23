@@ -5,6 +5,9 @@
   }
 
 :root {
+--color: #ffffff;
+--main-color: #191c29;
+
 /* violet */
 --primary-color: 111, 76, 255;
 
@@ -20,6 +23,8 @@
 }
 
 .light-mode{
+--color: #000000;
+--main-color: #dedede;
 /* violet */
 --primary-color: rgb(73, 27, 255);
 

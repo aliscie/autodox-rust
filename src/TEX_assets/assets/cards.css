@@ -1,6 +1,6 @@
 
 .card {
-    background: #191c29;
+    background: var(--main-color);
     width: var(--card-width);
     height: var(--card-height);
     padding: 3px;
@@ -11,9 +11,9 @@
 }
 
 .card:hover {
-
 transition: color 1s;
 }
+
 .card:hover:before, .card:hover:after {
 animation: none;
 opacity: 0;

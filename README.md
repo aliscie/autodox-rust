@@ -1,10 +1,20 @@
 # TEX
 
-Welcome to your new TEX project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+<img align="left" src="readmeFiles/logo2.png" height="100%">
+AUTODOX or TEX not decieded about the name yet.
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+This app is Notion.so clone, roamresearch clone and obsidian clone. The main purpose of this app is not to just clone these note taking apps but to make an all in one **Open source note taking app** with automation features.
+## Goals
+1. **Plugins** : plugins or extensions are customizations that you can add to your TEX application. For example, you can add grammar correction plugin like grammarly, or a machine learning plugin that help you abbreviation your text.
+2. **Components** : In notion you may noticed that you can import a table when you hit `/` then type table then hit enter. The table called a component. In TEX you can create your own custom components. For example you can create flash cards. Also, you can use plugins to enhance your components. For example, you can use google translator plugin with flash card component so everytime you add a word you will get automatic translation.
+3. **Services** : the is the core goal of TEX where you can create a google translator plugin and create flashcard components then put them all in one workspace (page) and you can publish that page so other people can use it. In other word you don't need to create new plugin and component for every user, instead one user can create all of them and share it with others.
+5. **spreadsheet** : similar to microsoft excel you will have a spreadsheet where you can store your data and impiment formulas. Also, with plugins you can implement custom formulas like a stock market plugin. Last but not least, you can use these spreadsheets as a backend for your services. In other word the components will act as a frontend that interact with this spreadsheet.
+5. **Ownership** : when you create a component, or a plugin or a service you will own it as an NFT. Hence, you can make money from it. There are three ways to make money with NFTs. One by selling it. Second, by getting percentage on every sell. Third, by requiring subscriptions fees like 7$ a month without selling the plugin or the service.
+6. **benefits and vision** :
+6.1 First of all, i believe this new system will replace microsoft office and apple iwork.
+6.2 Users, will have safe place to store their data on the blockchain on IC. 6.3 Users can do whatever they can imagine with all these customizations.
+6.4 there are more feature that I will work one like live-time connection so you can share your documents and update them in real time. or like page components so you can have an entire page as a spread sheet.
 
-To learn more before you start working with TEX, see the following documentation available online:
 
 - [Quick Start](https://smartcontracts.org/docs/quickstart/quickstart-intro.html)
 - [SDK Developer Tools](https://smartcontracts.org/docs/developers-guide/sdk-guide.html)

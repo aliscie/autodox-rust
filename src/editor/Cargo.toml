@@ -1,22 +1,17 @@
 [package]
-name = "main"
+name = "editor"
 version = "0.1.0"
 edition = "2021"
 
-
-[workspace]
-members = [
-    "src/TEX",
-    "src/editor",
-]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-editor = { path = "src/editor" }
-yew = "0.19.3"
+table-extract = "0.2.2"
+yew = "0.19"
 wasm-bindgen = "0.2"
 html-minifier = "3.0.15"
 js-sys = "0.3.56"
-
+markup5ever_rcdom = "0.1.0"
 
 [dependencies.web-sys]
 version = "0.3.56"
@@ -41,5 +36,10 @@ features = [
     "Selection",
     "Range",
     "console",
-    "DomTokenList", #for class_list
 ]
+
+#[workspace]
+#members = [
+#    "./workspaces/extend_triats",
+#    "./workspaces/web_socket",
+#]
