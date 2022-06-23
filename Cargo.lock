@@ -341,6 +341,7 @@ dependencies = [
 name = "editor"
 version = "0.1.0"
 dependencies = [
+ "extend_traits",
  "html-minifier",
  "js-sys",
  "markup5ever_rcdom",
@@ -395,6 +396,15 @@ dependencies = [
  "quote",
  "rustc_version",
  "syn",
+]
+
+[[package]]
+name = "extend_traits"
+version = "0.1.0"
+dependencies = [
+ "js-sys",
+ "wasm-bindgen",
+ "web-sys",
 ]
 
 [[package]]
@@ -841,6 +851,7 @@ name = "main"
 version = "0.1.0"
 dependencies = [
  "editor",
+ "extend_traits",
  "html-minifier",
  "js-sys",
  "wasm-bindgen",

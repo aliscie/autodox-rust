@@ -8,10 +8,12 @@ edition = "2021"
 members = [
     "src/TEX",
     "src/editor",
+    "src/extend_traits",
 ]
 
 [dependencies]
 editor = { path = "src/editor" }
+extend_traits = { path = "src/extend_traits" }
 yew = "0.19.3"
 wasm-bindgen = "0.2"
 html-minifier = "3.0.15"

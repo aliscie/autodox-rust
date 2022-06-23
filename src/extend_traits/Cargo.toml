@@ -1,18 +1,12 @@
 [package]
-name = "editor"
+name = "extend_traits"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-table-extract = "0.2.2"
-yew = "0.19"
 wasm-bindgen = "0.2"
-html-minifier = "3.0.15"
 js-sys = "0.3.56"
-markup5ever_rcdom = "0.1.0"
-extend_traits = { path = "../extend_traits" }
 
 
 [dependencies.web-sys]
@@ -38,10 +32,5 @@ features = [
     "Selection",
     "Range",
     "console",
+    "DomTokenList", #for class_list
 ]
-
-#[workspace]
-#members = [
-#    "./workspaces/extend_triats",
-#    "./workspaces/web_socket",
-#]
