@@ -1,0 +1,4 @@
+service : {
+  mul: (nat) -> (nat);
+  read: () -> (nat) query;
+}

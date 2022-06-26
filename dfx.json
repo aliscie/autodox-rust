@@ -10,7 +10,7 @@
         "TEX"
       ],
       "frontend": {
-        "entrypoint": "src/TEX_assets/src/index.html"
+        "entrypoint": "src/TEX_assets/index.html"
       },
       "source": [
         "src/TEX_assets/assets",

@@ -1,5 +1,14 @@
 #the following are three ways of running the application
 ## 1.using trunk
+start:
+	#killall dfx replica
+	dfx start --background --clean
+#	dfx deploy
+	#trunk serve
+
+deploy:
+	dfx deploy
+
 trunk:
 	trunk serve --open
 
@@ -17,6 +26,8 @@ web:
 
 kill_all:
 	killall dfx replica
-	
+
+optimize:
+	ic-cdk-optimizer target/wasm32-unknown-unknown/debug/main.wasm -o target/wasm32-unknown-unknown/debug/main-opt.wasm
 #tailwind:
 #	npx tailwindcss-cli build ./tailwind.css -o styles/tailwind.css

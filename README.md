@@ -8,6 +8,13 @@ This app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
 1. **Plugins** : plugins or extensions are customizations that you can add to your TEX application. For example, you can add grammar correction plugin like grammarly, or a machine learning plugin that help you abbreviation your text.
 2. **Components** : In notion you may noticed that you can import a table when you hit `/` then type table then hit enter. The table called a component. In TEX you can create your own custom components. For example you can create flash cards. Also, you can use plugins to enhance your components. For example, you can use google translator plugin with flash card component so everytime you add a word you will get automatic translation.
 3. **Services** : the is the core goal of TEX where you can create a google translator plugin and create flashcard components then put them all in one workspace (page) and you can publish that page so other people can use it. In other word you don't need to create new plugin and component for every user, instead one user can create all of them and share it with others.
+3. **search** : We will have 6 search functionaries.
+    - search for words in file
+    - search for files names
+    - global search for words in any files in any directory you choose
+    - regular expression search.
+    - save your search results and reuse them again.
+
 5. **spreadsheet** : similar to microsoft excel you will have a spreadsheet where you can store your data and impiment formulas. Also, with plugins you can implement custom formulas like a stock market plugin. Last but not least, you can use these spreadsheets as a backend for your services. In other word the components will act as a frontend that interact with this spreadsheet.
 5. **Ownership** : when you create a component, or a plugin or a service you will own it as an NFT. Hence, you can make money from it. There are three ways to make money with NFTs. One by selling it. Second, by getting percentage on every sell. Third, by requiring subscriptions fees like 7$ a month without selling the plugin or the service.
 6. **benefits and vision** :

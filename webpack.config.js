@@ -40,7 +40,7 @@ const isDevelopment = process.env.NODE_ENV !== "production";
 
 const frontendDirectory = "TEX_assets";
 
-const asset_entry = path.join("src", frontendDirectory, "src", "index.html");
+const asset_entry = path.join("src", frontendDirectory, "index.html");
 
 module.exports = {
   target: "web",
