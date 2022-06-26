@@ -1,4 +1,5 @@
 # TEX
+* this project is owned as an NFT by Ali Husam Shakir AlKaraawi. You can have shares of it by participating to the project.
 
 <img align="left" src="readmeFiles/logo2.png" height="100%">
 AUTODOX or TEX not decieded about the name yet.
