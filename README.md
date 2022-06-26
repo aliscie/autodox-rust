@@ -24,7 +24,7 @@ This app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
 - Users can do whatever they can imagine with all these customizations.
 - there are more feature that I will work one like live-time connection so you can share your documents and update them in real time. or like page components so you can have an entire page as a spread sheet.
 
-7. **Will it be successful?**: Well, there are two types of products. First type is product that you need to convince people to use. The second it a product that people already looking for. By looking at the current market and youtuber I saw that apps like notion.so and quizlit are in high domands and I already saw youtubers how wish if quizlit have better feature and if notion have better features and have better security system. Well, giving all that our product is from the second type so it has a high probalbity of success and we will not need huge marketing for it.
+7. **Will it be successful?**: Well, there are two types of products. First type is product that you need to convince people to use. The second it a product that people already looking for. By looking at the current market and youtuber I saw that apps like notion.so and quizlit are in high domands and I already saw youtubers wishing if quizlit have better feature and if notion have better features and have better security system. Well, giving all that our product is from the second type so it has a high probalbity of success and we will not need huge marketing for it.
 
 - [Quick Start](https://smartcontracts.org/docs/quickstart/quickstart-intro.html)
 - [SDK Developer Tools](https://smartcontracts.org/docs/developers-guide/sdk-guide.html)
