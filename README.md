@@ -8,7 +8,7 @@ This app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
 ## Goals
 1. **Plugins** : plugins or extensions are customizations that you can add to your TEX application. For example, you can add grammar correction plugin like grammarly, or a machine learning plugin that help you abbreviation your text.
 2. **Components** : In notion you may noticed that you can import a table when you hit `/` then type table then hit enter. The table called a component. In TEX you can create your own custom components. For example you can create flash cards. Also, you can use plugins to enhance your components. For example, you can use google translator plugin with flash card component so everytime you add a word you will get automatic translation.
-3. **Services** : the is the core goal of TEX where you can create a google translator plugin and create flashcard components then put them all in one workspace (page) and you can publish that page so other people can use it. In other word you don't need to create new plugin and component for every user, instead one user can create all of them and share it with others.
+3. **Services** : the is the core goal of TEX where you can create a google translator plugin and create flashcard components then put them all in one workspace (page or template or MiniApp) and you can publish that page so other people can use it. In other word you don't need to create new plugin and component for every user, instead one user can create all of them and share it with others.
 3. **search** : We will have 5 search functionalities.
     - search for words in file
     - search for files names
