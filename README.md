@@ -17,6 +17,8 @@ This app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
     - save your search results and reuse them again.
 
 5. **spreadsheet** : similar to microsoft excel you will have a spreadsheet where you can store your data and impiment formulas. Also, with plugins you can implement custom formulas like a stock market plugin. Last but not least, you can use these spreadsheets as a backend for your services. In other word the components will act as a frontend that interact with this spreadsheet.
+6. **Custom Formulas** in addition to the default formulas you can build or buy and install custom formulas for more functionality.
+6. **Market** in the marketplace you can download custom Components, services and formulas or even buy them.
 5. **Ownership** : when you create a component, or a plugin or a service you will own it as an NFT. Hence, you can make money from it. There are three ways to make money with NFTs. One by selling it. Second, by getting percentage on every sell. Third, by requiring subscriptions fees like 7$ a month without selling the plugin or the service.
 6. **benefits and vision** :
 - First of all, i believe this new system will replace microsoft office and apple iwork.
